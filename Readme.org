@@ -1,11 +1,9 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:58.832868
-#+TITLE: 華嚴清涼國師禮讚文
-#+PROPERTY: CBETA_ID X74n1471
-#+PROPERTY: ID KR6e0151
-#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 74, No. 1471
-#+PROPERTY: VOL 74
-#+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 華嚴清涼國師禮讚文 / X
+#+DATE: 2015-11-26 14:22:14.560791
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         X|【卍續】    |
 
-<pb:KR6e0151_X_000-0360c>
+* 目次
+* 卷
+** [[file:KR6e0151_001.txt][華嚴清涼國師禮讚文 1]]
